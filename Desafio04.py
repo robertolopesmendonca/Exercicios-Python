@@ -7,3 +7,4 @@ print(f'É alfanumérico? {a.isalnum()}')
 print(f'É maiúscula? {a.isupper()}')
 print(f'É minúscula? {a.islower()}')
 print(f'É capitalizada? {a.istitle()}')
+
