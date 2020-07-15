@@ -7,6 +7,6 @@ velocidadeaferida = float(input('Qual a velocidade aferida (Km/h) ? '))
 valordamulta = (velocidadeaferida - 80)* 7
 if velocidadeaferida > 80:
     print('Você foi multado, pois ultrapassou a velocidade de 80 Km/h')
-    print(f'O valor da multa foi: R${valordamulta:.2f}  ')
+    print(f'O valor da multa foi: R${valordamulta:.2f}')
 else:
     print('Você não ultrapassou a velocidade limite')
