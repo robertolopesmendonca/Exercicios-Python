@@ -14,5 +14,5 @@ if valordaprestacao >  (30/100)*salariodocomprador:
     print('Seu empréstimo não foi autorizado')
 else:
     print(f'Seu empréstimo foi aprovado e o da sua mensalidade será {valordaprestacao:.2f}')
-
     
+
