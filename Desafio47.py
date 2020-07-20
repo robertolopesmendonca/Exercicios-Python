@@ -11,4 +11,3 @@ for contador in range (1, 50):
 for contador in range (2, 50, 2):
     print(contador)
 
-
