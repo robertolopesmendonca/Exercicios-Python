@@ -21,3 +21,4 @@ for i, v in enumerate(jogador['gols']):
 print(f'Foi um total de {jogador["total"]} gols.')
 
 
+
