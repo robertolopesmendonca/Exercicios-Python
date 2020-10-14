@@ -3,7 +3,7 @@ print("""
 """)
 from random import randint
 from time import sleep
-
+#teste
 
 def sorteia(lista):
     print('Sorteando 5 valores da lista: ', end='')
